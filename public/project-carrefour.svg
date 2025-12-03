@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#f3f6ff"/>
+  <g transform="translate(200 300)">
+    <path d="M300 180 L520 0 L520 360 Z" fill="#0052a4"/>
+    <path d="M500 360 L720 540 L500 720 Z" fill="#e30017"/>
+    <circle cx="500" cy="360" r="140" fill="#0052a4"/>
+  </g>
+  <text x="600" y="1150" font-size="180" text-anchor="middle" font-weight="700" fill="#0052a4">CARREFOUR</text>
+  <text x="600" y="1320" font-size="120" text-anchor="middle" font-weight="600" fill="#e30017">AMIENS</text>
+</svg>
+
